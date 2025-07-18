@@ -1,6 +1,6 @@
 # 📦 Laravel Inventory Manager API & Web App
 
-A simple inventory management system built with **Laravel 10**, featuring product CRUD operations, RESTful API endpoints, and a clean Bootstrap-based UI. Ideal for learning or small business use cases.
+A simple inventory management system built with **Laravel 12**, featuring product CRUD operations, RESTful API endpoints, and a clean Bootstrap-based UI. Ideal for learning or small business use cases.
 
 ---
 
